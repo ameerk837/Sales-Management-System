@@ -1,0 +1,56 @@
+customer name=ameer
+items=	
+apple 
+papaya 
+orange 
+Total bill=3344
+customer name=amir
+items=	
+apple 
+Total bill=160
+customer name=hamdan
+items=	
+apple 
+dairymilk 
+Total bill=5280
+customer name=mohtashim
+items=	
+chips 
+Total bill=50
+customer name=zoha
+items=	
+papaya 
+water 
+Total bill=912
+customer name=ali
+items=	
+papaya 
+water 
+Total bill=120
+customer name=hazik
+items=	
+melon 
+water 
+Total bill=6208
+customer name=hammad
+items=	
+melon 
+Total bill=6080
+customer name=akbar
+items=	
+fanta 
+Total bill=128
+customer name=jamal
+items=	
+fanta 
+Total bill=256
+customer name=haleem
+items=	
+water 
+orange 
+Total bill=376
+customer name=raymisterio
+items=	
+fanta 
+aquafina 
+Total bill=1040
